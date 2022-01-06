@@ -5,6 +5,7 @@ public class git01 {
         System.out.println("version1");
         System.out.println("local line 6");
         System.out.println("local line 7");
+        System.out.println("local line 8");
     }
 }
 
